@@ -55,7 +55,7 @@
 #define TCP_IP_DATA_FEATURE
 
 //NOTIFICATION_FEATURE : allow to push notifications
-#define NOTIFICATION_FEATURE
+//#define NOTIFICATION_FEATURE
 
 //MKS TFT WIFI support see Wiki for wiring
 //#define MKS_TFT_FEATURE
